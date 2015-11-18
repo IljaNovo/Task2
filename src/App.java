@@ -1,8 +1,6 @@
 import java.awt.*;
 
 public class App {
-    private static List array;
-    private static int counPrintElem;
 
     public static void main(String []args) {
 

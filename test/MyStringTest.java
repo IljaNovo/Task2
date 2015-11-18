@@ -3,8 +3,6 @@ import static org.junit.Assert.*;
 
 public class MyStringTest {
 
-    // покрыть все тесты
-
     @Test
     public void testedForCorrectCalculationMethodOfLengthOfString() throws Exception {
         assertEquals(MyString.countNumberOfSpecifiedCharacterInString("Lalala,", 'l'), 2);

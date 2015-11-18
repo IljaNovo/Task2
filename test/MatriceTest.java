@@ -87,6 +87,7 @@ public class MatriceTest {
         assertEquals(validateAnswer, true);
     }
 
+	@Test
     public void  checkForComplianceWithTheElemsSearchIntersectionMany()  throws Exception {
 
         double[] array11 = {2, 2, 1, 4, 10};
